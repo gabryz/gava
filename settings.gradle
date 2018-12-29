@@ -1,0 +1,2 @@
+include 'gava-protocol'
+include 'gava-jpa'
